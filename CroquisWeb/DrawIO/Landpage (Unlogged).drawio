@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T18:06:57.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="FozigMnIEMpBlQbv9dCa" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-12T18:24:49.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rGZ3IfnqMNVtD5MYPuqP" version="22.0.4" type="device">
   <diagram name="Landpage (Unlogged)" id="7BT9Ph9FX4Y6p1EpOXSM">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZEkZ2hJIipyatHiksb2i-0" />
         <mxCell id="ZEkZ2hJIipyatHiksb2i-1" parent="ZEkZ2hJIipyatHiksb2i-0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="ZEkZ2hJIipyatHiksb2i-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
           <mxGeometry x="90" y="90" width="620" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="90" y="140" width="620" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZEkZ2hJIipyatHiksb2i-5" value="&lt;div&gt;banner&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
           <mxGeometry x="80" y="80" width="60" height="30" as="geometry" />
@@ -27,27 +24,6 @@
         </mxCell>
         <mxCell id="ZEkZ2hJIipyatHiksb2i-24" value="Currency" style="rounded=1;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
           <mxGeometry x="250" y="102.5" width="60" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-27" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="110" y="160" width="380" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-28" value="Find a roommate" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="240" y="180" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-29" value="Find a Room" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="140" y="180" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-30" value="My Posts" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="352.5" y="180" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-31" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="555.5" y="160" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-32" value="Create a Post" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="568" y="180" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEkZ2hJIipyatHiksb2i-33" value="&lt;div&gt;landpage banner&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
-          <mxGeometry x="85" y="140" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZEkZ2hJIipyatHiksb2i-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
           <mxGeometry x="140" y="540" width="110" height="150" as="geometry" />
@@ -300,6 +276,36 @@
         </mxCell>
         <mxCell id="Ci3oL-zlfUf6QbDjgH_t-72" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Status&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
           <mxGeometry x="180" y="384" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="90" y="140" width="620" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="113.5" y="140" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-2" value="Find a roommate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="243.9" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-3" value="Find a Room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="143.5" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-4" value="My Posts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="350" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="558" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-6" value="Create a Post" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="570.5" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-7" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="143.5" y="200" width="97.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlxjXkHBZhFgNtTTELG_-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ui-interface-6/24/adjust-128.png" vertex="1" parent="ZEkZ2hJIipyatHiksb2i-1">
+          <mxGeometry x="147.12" y="200" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEkZ2hJIipyatHiksb2i-33" value="&lt;div&gt;landpage banner&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZEkZ2hJIipyatHiksb2i-1" vertex="1">
+          <mxGeometry x="600" y="210" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
