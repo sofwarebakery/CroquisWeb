@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T19:06:21.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="P9oF5UmmimHX2kvUELP2" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-12T17:59:12.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="TOEeOCz5y9_WjZjGuqV8" version="22.0.4" type="device">
   <diagram name="My profile edition of phone cont 2" id="QZSVQC-CnyrF3Iy_n-gW">
-    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ohhKeTw-3-sE9GPZf_rS-0" />
         <mxCell id="ohhKeTw-3-sE9GPZf_rS-1" parent="ohhKeTw-3-sE9GPZf_rS-0" />
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="v6rp9FxE1UTJHCnvVCcs-0" value="Back" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ohhKeTw-3-sE9GPZf_rS-1" vertex="1">
           <mxGeometry x="280" y="570" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ly6415-vp24S6naNOF7x-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ohhKeTw-3-sE9GPZf_rS-1">
+          <mxGeometry x="522" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ly6415-vp24S6naNOF7x-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fillColor=#dae8fc;" vertex="1" parent="ohhKeTw-3-sE9GPZf_rS-1">
+          <mxGeometry x="525" y="106.5" width="24" height="18.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

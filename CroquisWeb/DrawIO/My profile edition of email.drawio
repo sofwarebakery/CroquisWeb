@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T19:03:04.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Q1I7DiNQe7C8_ddbqh80" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-12T17:53:08.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="s83aL30HNbap63N79oal" version="22.0.4" type="device">
   <diagram name="My profile edition of email" id="ggWieKjaG8-6YNWBKNfz">
-    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FlBekm9drB1G4aDRBDO4-0" />
         <mxCell id="FlBekm9drB1G4aDRBDO4-1" parent="FlBekm9drB1G4aDRBDO4-0" />
@@ -150,6 +150,12 @@
         </mxCell>
         <mxCell id="dhuANMOMEf26ypgC2Go1-0" value="&lt;b&gt;Email Updating Request&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="FlBekm9drB1G4aDRBDO4-1" vertex="1">
           <mxGeometry x="243" y="372" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvhUa0j-zz5-YRq5yT4v-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FlBekm9drB1G4aDRBDO4-1">
+          <mxGeometry x="522" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvhUa0j-zz5-YRq5yT4v-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fillColor=#dae8fc;" vertex="1" parent="FlBekm9drB1G4aDRBDO4-1">
+          <mxGeometry x="525" y="106.5" width="24" height="18.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
