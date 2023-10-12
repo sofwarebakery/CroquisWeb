@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T17:13:15.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Wb-FZscFTya_MBUfDvYX" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-12T18:23:50.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="rwE6vHhmo3EtLkvxIDce" version="22.0.4" type="device">
   <diagram name="Copia de Building&#39;s Post" id="dw2wXPZGj81q3_bSFqcU">
-    <mxGraphModel dx="1430" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jevpeknbrTmHfBJ1SfYR-0" />
         <mxCell id="jevpeknbrTmHfBJ1SfYR-1" parent="jevpeknbrTmHfBJ1SfYR-0" />
@@ -72,12 +72,6 @@
         </mxCell>
         <mxCell id="jevpeknbrTmHfBJ1SfYR-23" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=20;position=0.61;" parent="jevpeknbrTmHfBJ1SfYR-1" vertex="1">
           <mxGeometry x="647.56" y="1011.5" width="31.44" height="38.5" as="geometry" />
-        </mxCell>
-        <mxCell id="jevpeknbrTmHfBJ1SfYR-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="jevpeknbrTmHfBJ1SfYR-1" vertex="1">
-          <mxGeometry x="600" y="157" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jevpeknbrTmHfBJ1SfYR-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart" parent="jevpeknbrTmHfBJ1SfYR-1" vertex="1">
-          <mxGeometry x="607.5" y="165.25" width="15" height="13.5" as="geometry" />
         </mxCell>
         <mxCell id="jevpeknbrTmHfBJ1SfYR-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="jevpeknbrTmHfBJ1SfYR-1" vertex="1">
           <mxGeometry x="640" y="157" width="30" height="30" as="geometry" />
@@ -181,8 +175,14 @@
         <mxCell id="znuz5rSKZTTlFxBseMHT-5" value="This shows the lessees that are registered on the application. There might be unregistered lessees on this post, check the number of Total Lessees" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=15;position=0.29;fillColor=#fff2cc;strokeColor=#d6b656;" parent="jevpeknbrTmHfBJ1SfYR-1" vertex="1">
           <mxGeometry x="473" y="750" width="192.5" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="eZIr9BDB87GIcymK85Yp-1" value="14 users liked this post" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jevpeknbrTmHfBJ1SfYR-1">
+        <mxCell id="eZIr9BDB87GIcymK85Yp-1" value="14 users liked this post" style="rounded=1;whiteSpace=wrap;html=1;" parent="jevpeknbrTmHfBJ1SfYR-1" vertex="1">
           <mxGeometry x="510" y="1070" width="137.56" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="1a45jVT8oAiNAoQH7Nzl-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jevpeknbrTmHfBJ1SfYR-1">
+          <mxGeometry x="520" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a45jVT8oAiNAoQH7Nzl-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="jevpeknbrTmHfBJ1SfYR-1">
+          <mxGeometry x="525" y="107.25" width="20" height="15.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
