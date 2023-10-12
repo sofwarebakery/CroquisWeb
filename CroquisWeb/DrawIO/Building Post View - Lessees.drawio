@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T17:22:13.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_W3NJYR7K0HiF8IK2TLC" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-12T18:25:39.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="3C8r3XjxjOE8BXBJ_Rrg" version="22.0.4" type="device">
   <diagram name="Building&#39;s Post" id="2ML7q-hMSIMnHp59Dvie">
-    <mxGraphModel dx="2440" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WobxB_dHryr2HhKdZmhG-0" />
         <mxCell id="WobxB_dHryr2HhKdZmhG-1" parent="WobxB_dHryr2HhKdZmhG-0" />
@@ -51,12 +51,6 @@
         </mxCell>
         <mxCell id="CwxmqcZg9uP2GOajMm_Q-1" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=20;position=0.61;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
           <mxGeometry x="647.56" y="1011.5" width="31.44" height="38.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GBctdbltWhIi5VONVDx5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
-          <mxGeometry x="600" y="157" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GBctdbltWhIi5VONVDx5-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
-          <mxGeometry x="607.5" y="165.25" width="15" height="13.5" as="geometry" />
         </mxCell>
         <mxCell id="lOA8D_KpfUPjkKzOhdch-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
           <mxGeometry x="640" y="157" width="30" height="30" as="geometry" />
@@ -115,13 +109,13 @@
         <mxCell id="YUBZmbCSBFtOvdNJwja2-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart;fillColor=#FF6C4F;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
           <mxGeometry x="562.5" y="1012.1300000000001" width="32.5" height="29.25" as="geometry" />
         </mxCell>
-        <mxCell id="gQ9cHfWKYKhAQcVelKq--0" value="14 users liked this post" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WobxB_dHryr2HhKdZmhG-1">
+        <mxCell id="gQ9cHfWKYKhAQcVelKq--0" value="14 users liked this post" style="rounded=1;whiteSpace=wrap;html=1;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
           <mxGeometry x="508.75" y="1070" width="140" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="gQ9cHfWKYKhAQcVelKq--2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WobxB_dHryr2HhKdZmhG-1">
+        <mxCell id="gQ9cHfWKYKhAQcVelKq--2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
           <mxGeometry x="513" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gQ9cHfWKYKhAQcVelKq--3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fillColor=#dae8fc;" vertex="1" parent="WobxB_dHryr2HhKdZmhG-1">
+        <mxCell id="gQ9cHfWKYKhAQcVelKq--3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fillColor=#dae8fc;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
           <mxGeometry x="518" y="107.25" width="20" height="15.5" as="geometry" />
         </mxCell>
         <mxCell id="YUBZmbCSBFtOvdNJwja2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="WobxB_dHryr2HhKdZmhG-1" vertex="1">
