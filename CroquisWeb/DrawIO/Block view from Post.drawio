@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T18:21:21.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Ux8c-W1GyG0AGwqB2O_2" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-12T18:11:10.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="459q2tupXq_PW2ARqFZY" version="22.0.4" type="device">
   <diagram name="Block view from post" id="yIoyPxGBC9LF-sKCCKrb">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aR1aFDNdituCqMlieMzb-0" />
         <mxCell id="aR1aFDNdituCqMlieMzb-1" parent="aR1aFDNdituCqMlieMzb-0" />
@@ -139,20 +139,26 @@
         <mxCell id="aR1aFDNdituCqMlieMzb-45" value="&lt;div&gt;banner&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aR1aFDNdituCqMlieMzb-1" vertex="1">
           <mxGeometry x="80" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3LsGQ2RpTC-I4Vbyv_a4-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="aR1aFDNdituCqMlieMzb-1">
+          <mxGeometry x="520" y="101.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3LsGQ2RpTC-I4Vbyv_a4-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="aR1aFDNdituCqMlieMzb-1">
+          <mxGeometry x="523.75" y="108.5" width="22.5" height="15.5" as="geometry" />
+        </mxCell>
         <mxCell id="aR1aFDNdituCqMlieMzb-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;opacity=70;strokeColor=#6c8ebf;" parent="aR1aFDNdituCqMlieMzb-1" vertex="1">
           <mxGeometry x="90" y="90" width="620" height="940" as="geometry" />
         </mxCell>
         <mxCell id="aR1aFDNdituCqMlieMzb-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="aR1aFDNdituCqMlieMzb-1" vertex="1">
-          <mxGeometry x="210" y="247" width="380" height="293" as="geometry" />
+          <mxGeometry x="210" y="267" width="380" height="293" as="geometry" />
         </mxCell>
         <mxCell id="aR1aFDNdituCqMlieMzb-49" value="Would you like to block the creator of this post: User1234 ? Posts from this user would no longer appear when you search for posts, and your posts won&#39;t be avaialble to them either. " style="rounded=0;whiteSpace=wrap;html=1;" parent="aR1aFDNdituCqMlieMzb-1" vertex="1">
-          <mxGeometry x="241" y="300" width="321" height="100" as="geometry" />
+          <mxGeometry x="239.5" y="294.5" width="321" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aR1aFDNdituCqMlieMzb-51" value="Yes, block User1234" style="rounded=0;whiteSpace=wrap;html=1;" parent="aR1aFDNdituCqMlieMzb-1" vertex="1">
-          <mxGeometry x="414.5" y="460" width="118" height="40" as="geometry" />
+          <mxGeometry x="440" y="447.5" width="118" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xBQA5SwnARwOiwZa6CwO-2" value="No" style="rounded=0;whiteSpace=wrap;html=1;" parent="aR1aFDNdituCqMlieMzb-1" vertex="1">
-          <mxGeometry x="267.5" y="460" width="118" height="40" as="geometry" />
+          <mxGeometry x="230" y="447.5" width="118" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
