@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T18:15:51.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="uLROTwu54MgUN_4s6qz4" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-13T16:19:59.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="qWiYInDJPOl6FaW3OC8k" version="22.0.4" type="device">
   <diagram name="Chats (Desktop POV)" id="AqFSTHsWOQDPT6lVY6Bg">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7eUQpqYgohSC8yLNwoJi-0" />
         <mxCell id="7eUQpqYgohSC8yLNwoJi-1" parent="7eUQpqYgohSC8yLNwoJi-0" />
@@ -327,6 +327,12 @@
         </mxCell>
         <mxCell id="kLD3CeSoELnkSLL8Vi2N-1" value="Report chat" style="rounded=0;whiteSpace=wrap;html=1;" parent="7eUQpqYgohSC8yLNwoJi-1" vertex="1">
           <mxGeometry x="220" y="745" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjEid-Kd2X2HPgnlcbc-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7eUQpqYgohSC8yLNwoJi-1">
+          <mxGeometry x="516.88" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjEid-Kd2X2HPgnlcbc-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="7eUQpqYgohSC8yLNwoJi-1">
+          <mxGeometry x="521.88" y="105" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
