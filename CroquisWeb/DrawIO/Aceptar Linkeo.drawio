@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T17:54:55.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="V87Gm5or65AXL4MHwnxs" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-14T11:09:53.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="lzFrpfdrvXEjQl-qlLFr" version="22.0.4" type="github">
   <diagram name="Aceptar Linkeo" id="wGS3FbU4_avMYoF-iLM3">
     <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
         <mxCell id="L7MxuIwRddLJGCQPqt2W-25" value="&lt;div&gt;landpage banner&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L7MxuIwRddLJGCQPqt2W-1" vertex="1">
           <mxGeometry x="85" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YZE0jwHkbDmrXQ6AWGJ-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="L7MxuIwRddLJGCQPqt2W-1">
+        <mxCell id="4YZE0jwHkbDmrXQ6AWGJ-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="L7MxuIwRddLJGCQPqt2W-1" vertex="1">
           <mxGeometry x="520.5" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YZE0jwHkbDmrXQ6AWGJ-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="L7MxuIwRddLJGCQPqt2W-1">
+        <mxCell id="4YZE0jwHkbDmrXQ6AWGJ-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" parent="L7MxuIwRddLJGCQPqt2W-1" vertex="1">
           <mxGeometry x="525.25" y="106.63" width="20.5" height="16.75" as="geometry" />
         </mxCell>
         <mxCell id="ZxymKm37mu0a7rUycJaR-0" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="L7MxuIwRddLJGCQPqt2W-1" vertex="1">
@@ -362,7 +362,7 @@
           <mxGeometry x="651" y="341" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="9tjd29BgfMgbg6Tu86Ht-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="L7MxuIwRddLJGCQPqt2W-1" vertex="1">
-          <mxGeometry x="120" y="340" width="550" height="580" as="geometry" />
+          <mxGeometry x="125.5" y="340" width="550" height="580" as="geometry" />
         </mxCell>
         <mxCell id="9tjd29BgfMgbg6Tu86Ht-1" value="Do you accept the invitation to be linked to the Building post from SENDER_NAME user?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L7MxuIwRddLJGCQPqt2W-1" vertex="1">
           <mxGeometry x="231" y="370" width="345" height="30" as="geometry" />
