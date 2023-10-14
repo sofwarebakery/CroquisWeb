@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T16:29:53.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="9_Ksfv30VcU5s92SzGLv" version="22.0.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-10-14T09:47:02.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Hb0QeavGsA764-pdcNmq" version="22.0.4" type="device">
   <diagram name="Página-1" id="YjCX_saZMy3gZ5nOOuut">
-    <mxGraphModel dx="1728" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,61 +266,79 @@
           <mxGeometry x="2760" y="467" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-191" value="selected tab options" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="420" width="340" height="120" as="geometry" />
+          <mxGeometry x="2920" y="73" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-192" value="Notifications" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="400" width="110" height="20" as="geometry" />
+          <mxGeometry x="3035" y="53" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-193" value="Web app&amp;nbsp;notifications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="420" width="340" height="60" as="geometry" />
+          <mxGeometry x="2920" y="73" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-194" value="Mobile app notifications" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="480" width="340" height="60" as="geometry" />
+          <mxGeometry x="2920" y="133" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-195" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="480" width="520" height="300" as="geometry" />
+          <mxGeometry x="3260" y="133" width="520" height="300" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-196" value="Email notifications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="540" width="340" height="60" as="geometry" />
+          <mxGeometry x="2920" y="193" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-197" value="A post where you are linked has been updated&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; color: rgb(219, 222, 225); text-align: left; background-color: rgba(2, 2, 2, 0.06);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="480" width="520" height="60" as="geometry" />
+          <mxGeometry x="3260" y="133" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-198" value="You have received a request to be linked to a post&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; color: rgb(219, 222, 225); text-align: left; background-color: rgba(2, 2, 2, 0.06);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="540" width="520" height="60" as="geometry" />
+          <mxGeometry x="3260" y="193" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-199" value="Your post promotion has finished or is about to finish&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; color: rgb(219, 222, 225); text-align: left; background-color: rgba(2, 2, 2, 0.06);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="600" width="520" height="60" as="geometry" />
+          <mxGeometry x="3260" y="253" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-200" value="Your profile has been verified.&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; color: rgb(219, 222, 225); text-align: left; background-color: rgba(2, 2, 2, 0.06);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="660" width="520" height="60" as="geometry" />
+          <mxGeometry x="3260" y="313" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-201" value="Your building has been verified.&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; color: rgb(219, 222, 225); text-align: left; background-color: rgba(2, 2, 2, 0.06);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="720" width="520" height="60" as="geometry" />
+          <mxGeometry x="3260" y="373" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-202" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="495" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RTo3BK1jIsYrV9mF9zAV-203" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="555" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RTo3BK1jIsYrV9mF9zAV-204" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="615" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RTo3BK1jIsYrV9mF9zAV-205" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="675" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RTo3BK1jIsYrV9mF9zAV-206" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="735" width="30" height="30" as="geometry" />
+          <mxGeometry x="3690" y="148" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTo3BK1jIsYrV9mF9zAV-207" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="2756" y="223" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZMsiEW3Pa8UNZB3LIeFJ-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="ZMsiEW3Pa8UNZB3LIeFJ-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="520" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZMsiEW3Pa8UNZB3LIeFJ-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="1">
+        <mxCell id="ZMsiEW3Pa8UNZB3LIeFJ-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" parent="1" vertex="1">
           <mxGeometry x="525" y="107.25" width="20" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-1" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3694" y="390" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-2" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3692" y="333" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-3" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3692" y="270" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-4" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3692" y="210" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-5" value="Your post has received a like" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="510" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2758" y="525" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-7" value="Your post has received a like" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="433" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="3688" y="448" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-9" value="Your post has received a like" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="390" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_e3us3RLFIoUCxS57HM-10" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1868" y="405" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
